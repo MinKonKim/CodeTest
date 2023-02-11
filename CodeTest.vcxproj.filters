@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{d8158a9d-eaf5-451d-aec1-a1eb72d28853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스\Level 2">
+      <UniqueIdentifier>{ffbafd38-46f5-441d-91f9-008bcb9db83c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스\Level 1">
+      <UniqueIdentifier>{16f0c378-5a16-44a0-9d93-1d6d2c51cdd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스\Level 0">
+      <UniqueIdentifier>{d8ae8f86-6ca7-4013-89c9-d2ae80b943a9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CodeTest.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ContinueNumberSum.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="DaumNumber.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="OngRE%281%29.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="PaperCut.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="stringPush.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallel.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberCouple.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="TempleOfHonor.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="CantOverRunPlayer.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulationTest.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPrimeNumber.cpp">
+      <Filter>소스 파일\프로그래머스\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="SaleEvent.cpp">
+      <Filter>소스 파일\프로그래머스\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="ExerciseSuit.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="FruitSaler%28X%29.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MakePrimeNumber.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="NearestIdenticalLetter.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="SecretNumber.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalityTypeTest.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Babbling2.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+    <ClCompile Include="NewID.cpp">
+      <Filter>소스 파일\프로그래머스\Level 1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
