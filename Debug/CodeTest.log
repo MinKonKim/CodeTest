@@ -1,3 +1,4 @@
-﻿  PersonalityTypeTest.cpp
-C:\Users\rhsrh\source\repos\CodeTest\CodeTest\PersonalityTypeTest.cpp(28,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  Test.cpp
+C:\Users\rhsrh\source\repos\CodeTest\CodeTest\Test.cpp(8,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\rhsrh\source\repos\CodeTest\CodeTest\Test.cpp(8,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
   CodeTest.vcxproj -> C:\Users\rhsrh\source\repos\CodeTest\Debug\CodeTest.exe

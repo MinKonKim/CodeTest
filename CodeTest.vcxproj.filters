@@ -100,5 +100,11 @@
     <ClCompile Include="NewID.cpp">
       <Filter>소스 파일\프로그래머스\Level 1</Filter>
     </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일\프로그래머스\Level 0</Filter>
+    </ClCompile>
+    <ClCompile Include="BilliardPractice.cpp">
+      <Filter>소스 파일\프로그래머스\Level 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
